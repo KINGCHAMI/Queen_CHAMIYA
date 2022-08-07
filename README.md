@@ -41,6 +41,6 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/chaminduindula6789/Queen_CHAMIYA)
+* [`Queen_CHAMIYA`](https://github.com/chaminduindula6789/Queen_CHAMIYA)
 
 
