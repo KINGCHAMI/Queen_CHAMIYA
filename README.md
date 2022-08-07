@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+Queen_CHAMIYA;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
@@ -20,7 +20,7 @@
 
   <p align="center">
 
-<a href="#"><img title="Queen_CHAMIYA" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Queen_CHAMIYA" src="https://img.shields.io/badge/Queen_CHAMIYA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
