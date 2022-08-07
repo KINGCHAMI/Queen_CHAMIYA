@@ -41,12 +41,6 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Vihanga-YT`](https://github.com/chaminduindula6789/Queen_CHAMIYA)
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
+
