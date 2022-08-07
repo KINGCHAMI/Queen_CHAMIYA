@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+Queen_CHAMIYA;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+Queen_CHAMIYA+WA+BOT.;CREATED+BY+Queen_CHAMIYA;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
